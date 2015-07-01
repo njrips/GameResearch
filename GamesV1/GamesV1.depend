@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1434047512 source:/home/njrips/Desktop/Research/GamesV1/main.cpp
+	"Controller.h"
+
+1434047489 source:/home/njrips/Desktop/Research/GamesV1/Controller.cpp
+	"Controller.h"
+
+1434047429 /home/njrips/Desktop/Research/GamesV1/Controller.h
+	"OpenGLController.h"
+	"LOpenGL.h"
+	<stdio.h>
+
+1434047045 /home/njrips/Desktop/Research/GamesV1/OpenGLController.h
+
+1434025890 source:/home/njrips/Dropbox/C-Projects/Research/GamesV1/Controller.cpp
+	"Controller.h"
+
+1435682666 /home/njrips/Dropbox/C-Projects/Research/GamesV1/Controller.h
+	<GL/gl.h>
+	"SDLController.h"
+	"OpenGLController.h"
+	"imageloader.h"
+	"camera.h"
+	"button.h"
+	"car.h"
+
+1435477780 /home/njrips/Dropbox/C-Projects/Research/GamesV1/OpenGLController.h
+	<GL/glu.h>
+	<GL/glut.h>
+	<cmath>
+
+1435733455 source:/home/njrips/Dropbox/C-Projects/Research/GamesV1/main.cpp
+	"Controller.h"
+	<math.h>
+
+1435472844 /home/njrips/Dropbox/C-Projects/Research/GamesV1/SDLController.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_syswm.h>
+
+1434025890 source:/home/njrips/Downloads/GamesV1/GamesV1/Controller.cpp
+	"Controller.h"
+
+1434721614 /home/njrips/Downloads/GamesV1/GamesV1/Controller.h
+	"SDLController.h"
+	"OpenGLController.h"
+	<stdio.h>
+
+1434716289 /home/njrips/Downloads/GamesV1/GamesV1/SDLController.h
+	<SDL2/SDL.h>
+
+1434721503 /home/njrips/Downloads/GamesV1/GamesV1/OpenGLController.h
+	<GL/glu.h>
+	<GL/glut.h>
+
+1434721005 source:/home/njrips/Downloads/GamesV1/GamesV1/main.cpp
+	"Controller.h"
+
+1435472851 source:/home/njrips/Dropbox/C-Projects/Research/GamesV1/SDLController.cpp
+	"SDLController.h"
+
+1435570899 source:/home/njrips/Dropbox/C-Projects/Research/GamesV1/camera.cpp
+	"camera.h"
+	<GL/glut.h>
+
+1435401473 /home/njrips/Dropbox/C-Projects/Research/GamesV1/camera.h
+	"model.h"
+
+1435675840 /home/njrips/Dropbox/C-Projects/Research/GamesV1/model.h
+	<cmath>
+	<GL/glut.h>
+
+1376297254 /home/njrips/Dropbox/C-Projects/Research/GamesV1/material.h
+	<iostream>
+
+1376421294 /home/njrips/Dropbox/C-Projects/Research/GamesV1/object.h
+	<vector>
+	<string>
+	"vertex.h"
+	"normal.h"
+	"face.h"
+	"material.h"
+
+1376310274 /home/njrips/Dropbox/C-Projects/Research/GamesV1/vertex.h
+
+1376311446 /home/njrips/Dropbox/C-Projects/Research/GamesV1/normal.h
+
+1376312314 /home/njrips/Dropbox/C-Projects/Research/GamesV1/face.h
+	<vector>
+
+1376297790 source:/home/njrips/Dropbox/C-Projects/Research/GamesV1/face.cpp
+	"face.h"
+
+1376297188 source:/home/njrips/Dropbox/C-Projects/Research/GamesV1/material.cpp
+	"material.h"
+
+1435489172 source:/home/njrips/Dropbox/C-Projects/Research/GamesV1/model.cpp
+	"model.h"
+	<ctime>
+
+1376311498 source:/home/njrips/Dropbox/C-Projects/Research/GamesV1/normal.cpp
+	"normal.h"
+
+1376419842 source:/home/njrips/Dropbox/C-Projects/Research/GamesV1/object.cpp
+	"object.h"
+	<GL/glut.h>
+
+1376310548 source:/home/njrips/Dropbox/C-Projects/Research/GamesV1/vertex.cpp
+	"vertex.h"
+
+1435477787 source:/home/njrips/Dropbox/C-Projects/Research/GamesV1/OpenGLController.cpp
+	"OpenGLController.h"
+
+1435682894 source:/home/njrips/Dropbox/C-Projects/Research/GamesV1/button.cpp
+	"button.h"
+
+1435682520 /home/njrips/Dropbox/C-Projects/Research/GamesV1/button.h
+	<GL/glut.h>
+	<SDL2/SDL.h>
+	<cstring>
+	<stdio.h>
+
+1435566683 /home/njrips/Dropbox/C-Projects/Research/GamesV1/imageloader.h
+
+1435566712 source:/home/njrips/Dropbox/C-Projects/Research/GamesV1/imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1435733441 source:/home/njrips/Dropbox/C-Projects/Research/GamesV1/car.cpp
+	"car.h"
+
+1435735304 /home/njrips/Dropbox/C-Projects/Research/GamesV1/car.h
+	"model.h"
+
